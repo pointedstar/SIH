@@ -1,4 +1,4 @@
-# Security Policy
+<!-- # Security Policy
 We are very grateful to the security researchers and users that report
 back Layer5 project security vulnerabilities. We investigate every report thoroughly.
 
@@ -61,4 +61,5 @@ branches.
   - The #announcements channel on Slack
 
 As much as possible this announcement will be actionable, and include any mitigating steps customers can take prior to
-upgrading to a fixed version. 
+upgrading to a fixed version. -->
+.. coming soon..
